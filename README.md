@@ -13,16 +13,16 @@ https://pcprofessor.edu/
 https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/
 
 
-✅CopTIA Tech+
+✅CopTIA Tech+ <br>
 https://www.comptia.org/en-us/certifications/tech/
 
-✅ CompTIA A+
+✅ CompTIA A+ <br>
 https://www.comptia.org/en/certifications/a/
 
-✅ CompTIA Network+
+✅ CompTIA Network+ <br>
 https://www.comptia.org/en-us/certifications/network/
 
-✅ CompTIA Security+ 
+✅ CompTIA Security+ <br>
 https://www.comptia.org/en-us/certifications/security/
 
 🔄Certified Wireless Technology Specialist (CWTS)
