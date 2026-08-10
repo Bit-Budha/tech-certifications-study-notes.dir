@@ -5,7 +5,7 @@ Here is my Credly
 https://www.credly.com/users/bit-budha/edit/badges/credly
 
 Here are the Certifications I'm getting though PC Professor
-https://www.linkedin.com/feed/update/urn:li:activity:7448201946580156416/
+https://pcprofessor.edu/
 
 
 CompTIA A+
